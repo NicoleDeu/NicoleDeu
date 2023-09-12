@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a web app to connect people with health providers
+- 👯 I'm looking for a co-founder with full-stack development background
+- 📫 How to reach me: nicoledeutrich@t-online.de 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a horse that snors when he sleeps.
+
 <!--
 **NicoleDeu/NicoleDeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
